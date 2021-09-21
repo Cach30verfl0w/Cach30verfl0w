@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cach30verfl0w</h1>
 <h3 align="center">A passionate Penetration Tester and Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cach30verfl0w" alt="cach30verfl0w" /></a> </p>
-
 - 🔭 I’m currently working on **private projects**
 
 - 🌱 I’m currently learning **Frontend- and Backenddevelopment**
