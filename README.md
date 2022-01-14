@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on **private projects**
-- 🌱 I’m currently learning **Frontend- and Backenddevelopment**
+- 🌱 I’m currently learning **Low-Level Development**
 - 📝 I regularly write articles on [https://slsp.dev](https://slsp.dev)
 - 💬 Ask me about **Security, Java and other**
 - 📫 How to reach me **Cach30verfl0w#1337 (Discord)**
