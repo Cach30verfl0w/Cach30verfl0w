@@ -3,10 +3,11 @@
 	<h3>A passionate Software-, Exploit and Low-Level-Developer</h3>
 </div>
 
-- I'm currently learning more **mathematics**
-- You can ask me about **IT-Security, Operating Systems and Software**
-- All of my FOSS projects are available at [GitHub](https://github.com/Cach30verfl0w)
+- I'm currently learning more **mathematics and low-level development**
+- You can ask me about **IT-Security, Mathematics, Operating Systems and Software**
 - I'm currently developing a **software management system and an own language**
+- All of my [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects are available at [GitHub](https://github.com/Cach30verfl0w)
+- I have a discord account:  **Cedric H. | Cach30verfl0w#6875**
 
 <details align="center">
 <summary>My Skillset</summary>
@@ -38,6 +39,18 @@
 		<a href="https://de.wikipedia.org/wiki/C_(Programmiersprache)">
 			<img src="https://img.shields.io/badge/C/C++-9932cc.svg?style=for-the-badge&logo=C&logoColor=white" />
 		<a/>
+	</div>
+	<div align="center">
+	<h3>Databases</h3>
+		<a href="https://redis.io" target="_blank"> 
+		    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+	  </a>
+	  <a href="https://www.mongodb.com/" target="_blank"> 
+		  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+	  </a>
+	  <a href="https://mariadb.org/" target="_blank"> 
+		  <img src="https://img.shields.io/badge/mariadb-4169E1.svg?style=for-the-badge&logo=mariadb&logoColor=white"/> 
+	  </a>
 	</div>
 	<div align="center">
 		<h3>Backend</h3>
@@ -89,3 +102,4 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=cach30verfl0w&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=cach30verfl0w&theme=material-palenight" />
 </div>
+
