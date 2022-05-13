@@ -100,9 +100,3 @@
 </div>
 </details>
 
-<div align="center">
-	<h2>GitHub Stats</h2>
-	<img src="https://github-readme-stats.vercel.app/api?username=cach30verfl0w&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=cach30verfl0w&theme=material-palenight" />
-</div>
-
