@@ -39,6 +39,9 @@
 		<a href="https://de.wikipedia.org/wiki/C_(Programmiersprache)">
 			<img src="https://img.shields.io/badge/C/C++-9932cc.svg?style=for-the-badge&logo=C&logoColor=white" />
 		<a/>
+		<a href="https://rust-lang.org">
+			<img src="https://img.shields.io/badge/rust-8B4513.svg?style=for-the-badge&logo=rust&logoColor=white" />
+		<a/>
 	</div>
 	<div align="center">
 	<h3>Databases</h3>
