@@ -3,7 +3,6 @@
 	<h3>A passionate Software-, Exploit and Low-Level-Developer</h3>
 </div>
 
-- I'm currently working on the Jupiter programming language and the JupiterClient minecraft modification
 - You can ask me about **IT-Security, Mathematics, Operating Systems and Software**
 - I'm currently developing a **software management system and an own language**
 - All of my [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects are available at [GitHub](https://github.com/Cach30verfl0w)
